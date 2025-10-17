@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Ninjago98765",
+  "repo": "container-pdqtofs",
+  "name": "Ninjago98765",
+  "email": "vilmer.ebergervonhage@skola.morbylanga.se",
+}
